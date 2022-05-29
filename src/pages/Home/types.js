@@ -1,0 +1,5 @@
+export const DogsTypes = {
+  GET_DOG_REQUEST: "GET_DOG_REQUEST",
+  GET_DOG_SUCCESS: "GET_DOG_SUCCESS",
+  GET_DOG_FAIL: "GET_DOG_FAIL",
+};
